@@ -1,0 +1,2 @@
+pytz==2019.3
+virtualenv==16.7.5
